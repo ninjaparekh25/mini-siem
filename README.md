@@ -118,16 +118,6 @@ python cli.py start
 
 ---
 
-## 🎯 5-Minute Demo Script
-
-1. `docker-compose up --build`
-2. Open http://localhost:3000
-3. Watch AI status badge: "LEARNING → TRAINED" (after ~20 polls)
-4. Risk score animates based on real system load
-5. Simulated threats fire every 15–45 seconds → alerts appear
-6. Hit `GET http://localhost:5000/alerts` in browser to show API
-7. Show `backend/ai/trainer.py` → ROCm placeholder
-
 ---
 
 ## ⚙️ Environment Variables
